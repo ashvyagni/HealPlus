@@ -31,3 +31,7 @@ The built jar will be at `target/healplus-1.0.0.jar`.
 you can also directly download the healplus 1.0.0 .jar 
 from the above repo
 
+## thank you for downloading
+
+message ashxx.ily on discord for support!
+
