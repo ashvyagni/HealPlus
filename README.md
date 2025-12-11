@@ -25,3 +25,9 @@ The built jar will be at `target/healplus-1.0.0.jar`.
 ## Permissions
 - `healplus.self` — Use `/heal` on yourself and heal via GUI. (default: op)
 - `healplus.others` — Heal other players via command or GUI. (default: op)
+
+## Download 
+
+you can also directly download the healplus 1.0.0 .jar 
+from the above repo
+
